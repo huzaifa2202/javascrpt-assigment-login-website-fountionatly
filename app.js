@@ -13,7 +13,7 @@ function loginfountion() {
 
     if (email === "huzaifa1234@gmail.com" && pass === "12345678") {
         alert('login')
-        window.location.href = './index.html'
+        window.location.href = './Home.html'
     } else {
         alert('worng password or email')
     }
